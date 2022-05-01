@@ -1,0 +1,5 @@
+C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\bin\Release\net5.0-windows\publish\TVN-APP.exe
+C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\bin\Release\net5.0-windows\publish\TVN-APP.dll
+C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\bin\Release\net5.0-windows\publish\TVN-APP.deps.json
+C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\bin\Release\net5.0-windows\publish\TVN-APP.runtimeconfig.json
+C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\bin\Release\net5.0-windows\publish\TVN-APP.pdb
