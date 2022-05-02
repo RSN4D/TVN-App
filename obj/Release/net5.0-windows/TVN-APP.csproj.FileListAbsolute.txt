@@ -19,3 +19,4 @@ C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\obj\Release\net5.0-windows\TVN-APP.dll
 C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\obj\Release\net5.0-windows\ref\TVN-APP.dll
 C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\obj\Release\net5.0-windows\TVN-APP.pdb
 C:\Users\R4D41\Source\Repos\RSN4D\TVN-App\obj\Release\net5.0-windows\TVN-APP.genruntimeconfig.cache
+C:\Users\R4D41\source\repos\RSN4D\TVN-App\obj\Release\net5.0-windows\TVN-APP.csproj.AssemblyReference.cache
