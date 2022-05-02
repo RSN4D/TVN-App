@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qbrD0vO5gLYvAp1whrRZ+/+nv53Ge+VT87xF0IO1iHMpg3m6mVdqFpPmzYp3ePNHra+f+QgWMHQRKw7KUpfZSQ==",
+  "dgSpecHash": "MI/I9inN3ColuM1OntuxqU7hBR4yh/k4rnIW7eBR3z1/7OD5iv79LOvx6xnfh84GAxfAIFeB/HKAGsicKr1g0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\R4D41\\Source\\Repos\\RSN4D\\TVN-App\\TVN-APP.csproj",
+  "projectFilePath": "C:\\Users\\R4D41\\source\\repos\\RSN4D\\TVN-App\\TVN-APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R4D41\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],

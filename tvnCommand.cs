@@ -21,7 +21,7 @@ namespace TVN_APP
     {
         public static void tvnCE(string ip, string password)
         {
-            string rsnNodeInfo = $"tvnviewer {ip} -password={password}";
+            string rsnNodeInfo = $"tvnviewer {ip} -password={password} -scale=auto";
             Process cmd = new Process();
             cmd.StartInfo.FileName = "cmd.exe";
             cmd.StartInfo.Verb = "runas";

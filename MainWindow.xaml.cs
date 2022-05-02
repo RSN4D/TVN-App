@@ -60,9 +60,13 @@ namespace TVN_APP
         private void OpenAll_Click(object sender, RoutedEventArgs e)
         {
             tvnCommand.tvnCE("192.168.0.91", "Vossler");
+            Thread.Sleep(250);
             tvnCommand.tvnCE("192.168.0.92", "Vossler");
+            Thread.Sleep(250);
             tvnCommand.tvnCE("192.168.0.93", "Vossler");
+            Thread.Sleep(250);
             tvnCommand.tvnCE("192.168.0.94", "Vossler");
+            Thread.Sleep(250);
             tvnCommand.tvnCE("192.168.0.95", "Vossler");
         }
     }
